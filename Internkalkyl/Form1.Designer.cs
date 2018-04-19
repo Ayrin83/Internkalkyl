@@ -631,7 +631,7 @@
             this.groupBox10.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox10.Name = "groupBox10";
             this.groupBox10.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox10.Size = new System.Drawing.Size(170, 98);
+            this.groupBox10.Size = new System.Drawing.Size(175, 98);
             this.groupBox10.TabIndex = 65;
             this.groupBox10.TabStop = false;
             this.groupBox10.Tag = "46";
@@ -1257,7 +1257,7 @@
             // myNumboxTotalt
             // 
             this.myNumboxTotalt.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.myNumboxTotalt.Location = new System.Drawing.Point(543, 55);
+            this.myNumboxTotalt.Location = new System.Drawing.Point(550, 55);
             this.myNumboxTotalt.Margin = new System.Windows.Forms.Padding(2);
             this.myNumboxTotalt.Name = "myNumboxTotalt";
             this.myNumboxTotalt.Size = new System.Drawing.Size(76, 19);
@@ -1467,7 +1467,7 @@
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Internkalkyl 1.1.0";
+            this.Text = "Internkalkyl 0.2.0";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
